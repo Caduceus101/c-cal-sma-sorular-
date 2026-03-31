@@ -1,0 +1,7 @@
+*.exe
+*.o
+*.out
+.DS_Store
+SınavSorusu[0-9]*
+Örnek[0-9]*
+!*.cpp
