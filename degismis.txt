@@ -1,0 +1,9 @@
+---- A2 Matrisi (B'nin sutunlari, A'nin satirlari) ----
+10 13 16 
+11 14 17 
+12 15 18 
+
+---- B2 Matrisi (A'nin sutunlari, B'nin satirlari) ----
+1 4 7 
+2 5 8 
+3 6 9 
